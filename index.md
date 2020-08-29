@@ -313,8 +313,8 @@ The SMTP is a communication protocol for email transmission.
 ### Definition list
 {: .no_toc }
 
-Caution
-{: .label .label-yellow .highlight .c}
+**Caution**
+{: .label .label-yellow .text-white .bg-red}
 
 <div class="code-example" markdown="1">
 Not supported by Jekyll.
@@ -366,8 +366,8 @@ term
 ### Emoji shortcodes
 {: .no_toc }
 
-Caution
-{: .label .label-yellow .highlight .c}
+**Caution**
+{: .label .label-yellow .text-white .bg-red}
 
 <div class="code-example" markdown="1">
 Not supported by Jekyll.
@@ -381,8 +381,8 @@ Not supported by Jekyll.
 ### Automatic URL linking
 {: .no_toc }
 
-Caution
-{: .label .label-yellow .highlight .c}
+**Caution**
+{: .label .label-yellow .text-white .bg-red}
 
 <div class="code-example" markdown="1">
 Not supported by Jekyll.
@@ -396,8 +396,8 @@ https://www.example.com
 ### Disabling automatic URL linking
 {: .no_toc }
 
-Caution
-{: .label .label-yellow .highlight .c}
+**Caution**
+{: .label .label-yellow .text-white .bg-red}
 
 <div class="code-example" markdown="1">
 Not supported by Jekyll.
