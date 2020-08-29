@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Markdown Guide
+title: Jekyll-Markdown-Cheat-Sheet
 ---
 
-# Markdown Guide
+# Jekyll-Markdown-Cheat-Sheet
 {: .no_toc }
 
-This guide provides a quick overview of all the Markdown syntax elements.
+This cheat sheet provides a quick overview of all the Markdown syntax elements.
 
 ## Table of contents
 {: .no_toc .text-delta }
