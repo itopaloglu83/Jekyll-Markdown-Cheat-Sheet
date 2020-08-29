@@ -314,7 +314,7 @@ The SMTP is a communication protocol for email transmission.
 {: .no_toc }
 
 Caution
-{: .label .label-yellow }
+{: .label .label-yellow .highlight .c}
 
 <div class="code-example" markdown="1">
 Not supported by Jekyll.
@@ -367,7 +367,7 @@ term
 {: .no_toc }
 
 Caution
-{: .label .label-yellow }
+{: .label .label-yellow .highlight .c}
 
 <div class="code-example" markdown="1">
 Not supported by Jekyll.
@@ -382,7 +382,7 @@ Not supported by Jekyll.
 {: .no_toc }
 
 Caution
-{: .label .label-yellow }
+{: .label .label-yellow .highlight .c}
 
 <div class="code-example" markdown="1">
 Not supported by Jekyll.
@@ -397,7 +397,7 @@ https://www.example.com
 {: .no_toc }
 
 Caution
-{: .label .label-yellow }
+{: .label .label-yellow .highlight .c}
 
 <div class="code-example" markdown="1">
 Not supported by Jekyll.
