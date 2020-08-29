@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Jekyll-Markdown-Cheat-Sheet
 ---
 
 This cheat sheet provides a quick overview of all the Markdown syntax elements.
