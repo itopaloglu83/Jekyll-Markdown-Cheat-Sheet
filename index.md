@@ -397,7 +397,7 @@ https://www.example.com
 {: .no_toc }
 
 **Caution**
-{: .label .label-yellow .text-white .bg-red}
+{: .label .label-yellow .Label .Label--orange}
 
 <div class="code-example" markdown="1">
 Not supported by Jekyll.
