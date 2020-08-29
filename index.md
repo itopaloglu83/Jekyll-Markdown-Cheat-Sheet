@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Markdown Guide
-nav_order: 99
 ---
 
 # Markdown Guide
