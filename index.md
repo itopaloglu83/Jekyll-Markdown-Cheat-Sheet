@@ -399,6 +399,8 @@ https://www.example.com
 **Caution**
 {: .label .label-yellow .Label .Label--orange}
 
+<span class="Label mr-1 Label--orange" title="Label: Warning">Warning</span>
+
 <div class="code-example" markdown="1">
 Not supported by Jekyll.
 {: .text-red-200 }
