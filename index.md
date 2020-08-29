@@ -3,9 +3,6 @@ layout: default
 title: Jekyll-Markdown-Cheat-Sheet
 ---
 
-# Jekyll-Markdown-Cheat-Sheet
-{: .no_toc }
-
 This cheat sheet provides a quick overview of all the Markdown syntax elements.
 
 ## Table of contents
