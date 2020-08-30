@@ -1,3 +1,7 @@
 theme: jekyll-theme-primer
 
-markdown: GFM
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
